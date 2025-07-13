@@ -1,4 +1,4 @@
-# Magic-Loops-API-Collection
+# Magic-Loops-Collection
 # 1) OptiSolve
 An API that converts any given problem statement into an optimized solution. 
 - Get the API here: https://magicloops.dev/loop/4b5adbfd-585a-4e53-ade2-11803d159d2e/view
@@ -8,3 +8,6 @@ An API that generates a random password based on user-specified length and compl
 # 3) StartupIdeas
 Generates startup ideas based on user-provided industry and target audience using an LLM.
 - Get the API here: https://magicloops.dev/loop/92609699-11ab-4ed3-92b6-92ec4d5e238a/view
+# Sarcastic Mood Lifter
+
+- Get the App here: https://sarcastic-mood-lifter.magicloops.app/
